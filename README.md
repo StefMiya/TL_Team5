@@ -5,3 +5,5 @@ We want to cluster languages based on their similarities, in order to predict ho
 Categories: Modern European languages - their standard variation
 
 Features: Grammar - pronunciation - vocabulary
+
+2023-01-15: Pascal's change
