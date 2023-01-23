@@ -1,3 +1,5 @@
 Google Do:´c: https://docs.google.com/document/d/1LReSzOeIkizKVlHhLSOW2TTrIDyvazgMDlQhRDFeoWo/edit?usp=sharing
 
-Zenodo: https://zenodo.org/record/7385533
+Zenodo: 
+-Web: https://zenodo.org/record/7385533
+-Github: https://github.com/cldf-datasets/wals.git / https://github.com/cldf-datasets/wals
