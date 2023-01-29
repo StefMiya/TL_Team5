@@ -1,7 +1,7 @@
 from collections import OrderedDict
 import re
 fa = open('data/values.csv', 'r')
-fb = open('data/transformed_values.csv', 'w')
+fb = open('transformed_values.csv', 'w')
 
 #create list containing all parameters 
 parameters = []
