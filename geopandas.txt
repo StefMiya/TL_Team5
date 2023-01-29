@@ -1,0 +1,6 @@
+Links:
+https://geopandas.org/en/stable/gallery/create_geopandas_from_pandas.html
+
+https://geopandas.org/en/stable/docs/user_guide/mapping.html
+
+https://stackoverflow.com/questions/53233228/plot-latitude-longitude-from-csv-in-python-3-6
