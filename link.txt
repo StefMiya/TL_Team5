@@ -3,3 +3,7 @@ Google Doc: https://docs.google.com/document/d/1LReSzOeIkizKVlHhLSOW2TTrIDyvazgM
 Zenodo: 
 -Web: https://zenodo.org/record/7385533
 -Github: https://github.com/cldf-datasets/wals.git / https://github.com/cldf-datasets/wals
+
+K modes:
+- https://medium.com/geekculture/the-k-modes-as-clustering-algorithm-for-categorical-data-type-bcde8f95efd7
+- https://www.kaggle.com/code/ashydv/bank-customer-clustering-k-modes-clustering
