@@ -1,2 +1,2 @@
-pip install goepandas
+pip install geopandas
 pip install shapely

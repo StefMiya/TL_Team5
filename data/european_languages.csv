@@ -1,69 +1,63 @@
-ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Family,Subfamily,Genus,GenusIcon,ISO_codes,Samples_100,Samples_200,Country_ID,Source,Parent_ID,geometry
-alb,Albanian,Eurasia,41.0,20.0,,sqi,Indo-European,,Albanian,,sqi,False,False,RS AL,Buchholz-and-Fiedler-1987 Camaj-1969 Camaj-1984 Friedman-1986 Hetzer-1991 Kacori-1979 Mann-1977 Maxwell-1979 Newmark-1957 Newmark-et-al-1982,genus-albanian,POINT (20 41)
-alt,Alsatian,Eurasia,48.5,7.5,swis1247,gsw,Indo-European,,Germanic,,gsw,False,False,FR,Malherbe-and-Rosenberg-1996,genus-germanic,POINT (7.5 48.5)
-ast,Asturian,Eurasia,43.25,-6.0,astu1245,ast,Indo-European,,Romance,,ast,False,False,ES,,genus-romance,POINT (-6 43.25)
-blr,Belorussian,Eurasia,54.0,28.0,bela1254,bel,Indo-European,,Slavic,,bel,False,False,BY,Birillo-et-al-1966 Malherbe-and-Rosenberg-1996 Mayo-1993 Pashkevich-1978 Ushkevich-and-Zezulin-1992,genus-slavic,POINT (28 54)
-bos,Bosnian,Eurasia,43.0,18.0,bosn1245,bos,Indo-European,,Slavic,,bos,False,False,BA,,genus-slavic,POINT (18 43)
-bre,Breton,Eurasia,48.0,-3.0,bret1244,bre,Indo-European,,Celtic,,bre,False,False,FR,Bothorel-1982 Delaporte-1986 Malherbe-and-Rosenberg-1996 Press-1986 Schapansky-2000 Stephens-1993 Ternes-1970 Ternes-1992 Timm-1991 Wmffre-1998,genus-celtic,POINT (-3 48)
-bsq,Basque,Eurasia,43.0,-3.0,basq1248,eus,Basque,,Basque,,eus,True,True,FR ES,Allieres-1979 Arotcarena-1976 Aulestia-and-White-1992 Azkue-1906 Bybee-et-al-1994 Eguzkitza-1987 Everaert-2000 Hualde-and-Ortiz-de-Urbina-2003 Ithurry-1895 King-1993b Kuhnel-1999 Lafitte-1944 Lafitte-1962 Malherbe-and-Rosenberg-1996 Mejias-Bikandi-1999 Ndiaye-1970 Nichols-1992 Rebuschi-1984 Saltarelli-et-al-1988 Trask-1995 Trask-1997 Trask-2001 Urbina-1989 Van-Eys-1883 Zuniga-and-Fernandez-2019,genus-basque,POINT (-3 43)
-bul,Bulgarian,Eurasia,42.5,25.0,bulg1262,bul,Indo-European,,Slavic,,bul,False,False,BG,Aronson-1968 Beaulieux-1950 Beaulieux-and-Mladenov-1933 Bidwell-1968 Dahl-1985 Dyer-1992 Feuillet-1995 Friedman-1986 Haspelmath-1997 Hubenova-et-al-1968 Klagstad-1958 Malherbe-and-Rosenberg-1996 Penchev-2007 Scatton-1984 Scatton-1993 Stojanov-1964 Ternes-and-Vladimirova-Buhtz-1999,genus-slavic,POINT (25 42.5)
-cri,Crimean Tatar,Eurasia,45.0,34.0833333333,crim1257,crh,Altaic,,Turkic,,crh,False,False,UZ,Izidinova-1997 Jankowski-1992 Sevortjan-1966,genus-turkic,POINT (34.0833333333 45)
-crn,Cornish,Eurasia,50.3333333333,-5.0,corn1251,cor,Indo-European,,Celtic,,cor,False,False,GB,George-1993 Jenner-1904 Nance-1978 Pool-1958 Thomas-1992b,genus-celtic,POINT (-5 50.3333333333)
-ctl,Catalan,Eurasia,41.75,2.0,stan1289,cat,Indo-European,,Romance,,cat,False,False,ES,Ammann-nd Carbonell-and-Llisteri-1999 Diaz-Insense-2001 Fabra-1897 Fabra-1956 Gulsoy-1982 Haspelmath-1997 Hualde-1992 Malherbe-and-Rosenberg-1996 Mascaro-1978 Roca-1999 Sabater-and-Freixinet-1990 Wheeler-1979 Wheeler-1988b Wheeler-et-al-1999,genus-romance,POINT (2 41.75)
-cze,Czech,Eurasia,50.0,15.0,czec1258,ces,Indo-European,,Slavic,,ces,False,False,CZ,Harkins-1953 Jakobson-1926 Kabesch-1975 Lee-and-Lee-1986 Malherbe-and-Rosenberg-1996 Poldaufem-1971 Short-1993a Short-1993b Sova-1962,genus-slavic,POINT (15 50)
-dsh,Danish,Eurasia,56.0,10.0,dani1285,dan,Indo-European,,Germanic,,dan,False,False,DK,Allan-et-al-1995 Bredsdorff-1958 Diderichsen-1979 Glyn-and-Gade-1981 Haberland-1994 Koefoed-1958 Nielsen-1975 Rischel-1970 Rischel-1972 Rischel-1982 Staff-of-Editions-Berlitz-1974,genus-germanic,POINT (10 56)
-dut,Dutch,Eurasia,52.5,6.0,dutc1256,nld,Indo-European,,Germanic,,nld,False,False,NL,Dik-1985 Donaldson-1981 Donaldson-1987 Donaldson-1997b Haeseryn-et-al-1997 Haspelmath-1997 Kager-1989 Koolhoven-1968 Malherbe-and-Rosenberg-1996 Shetter-1958 Trommelen-and-Zonneveld-1999a van-Wely-1951 van-der-Hulst-1984,genus-germanic,POINT (6 52.5)
-eng,English,Eurasia,52.0,0.0,stan1293,eng,Indo-European,,Germanic,,eng,True,True,IE GB,Dahl-1985 Erickson-2001 Gimson-1970 Leech-and-Svartvik-1994 Moulton-1962 Quirk-et-al-1972 Quirk-et-al-1985 Trommelen-and-Zonneveld-1999b,genus-germanic,POINT (0 52)
-est,Estonian,Eurasia,59.0,26.0,esto1258,ekk,Uralic,Finno-Ugric,Finnic,,ekk,False,False,EE,Eek-1975 Hint-1973 Kask-1966 Laanest-1982 Lehiste-1972 Malherbe-and-Rosenberg-1996 Oinas-1966 Tauli-1973 Tauli-1983 Valmet-et-al-1981 Viitso-1998 de-Sivers-1969,genus-finnic,POINT (26 59)
-far,Faroese,Eurasia,62.0,-7.0,faro1244,fao,Indo-European,,Germanic,,fao,False,False,DK,Andreasen-and-Dahl-1998 Arnason-1999 Barnes-1994 Barnes-and-Weyhe-1994 Lockwood-1955,genus-germanic,POINT (-7 62)
-fin,Finnish,Eurasia,62.0,25.0,finn1318,fin,Uralic,Finno-Ugric,Finnic,,fin,True,True,FI,Dahl-1985 Fromm-1982 Fromm-and-Sadeniemi-1956 Hakulinen-and-Karlsson-1979 Harms-1964 Haspelmath-1997 Jeliseev-1993 Kangasniemi-1992 Karlsson-1978 Karlsson-1982 Karlsson-1983 Karlsson-1999 Karlsson-2000 Laanest-1982 Laury-1995 Lehtinen-1970 Mitchell-2001 Neuvonen-1935 Sulkala-and-Karjalainen-1992 Whitney-1973 Wiik-1965 Wuolle-1967,genus-finnic,POINT (25 62)
-fre,French,Eurasia,48.0,2.0,stan1290,fra,Indo-European,,Romance,,fra,True,True,CH FR,Byrne-et-al-1986 Dahl-1985 Dell-1984 Dubois-et-al-1955 Fougeron-and-Smith-1999 Fox-2001 Guentcheva-and-Riviere-2007 Harris-1988 Harris-1997 Haspelmath-1997 Judge-and-Healey-1985 LHuillier-1999 Lausberg-1972 Roca-1999 Sten-1963 Weinrich-1982 van-Oostendorp-1995,genus-romance,POINT (2 48)
-fri,Frisian,Eurasia,53.0,5.0,west2354,fry,Indo-European,,Germanic,,fry,False,False,NL DE,Hoekstra-and-Tiersma-1994 Tiersma-1985,genus-germanic,POINT (5 53)
-gae,Gaelic (Scots),Eurasia,57.0,-4.0,scot1245,gla,Indo-European,,Celtic,,gla,False,False,GB,Calder-1923 Calder-1980 Calder-1990 Dorian-1978 Gillies-1993 MacAulay-1992b Mackinnon-1971 Mackinnon-1977 Maclennan-1979,genus-celtic,POINT (-4 57)
-gag,Gagauz,Eurasia,46.3333333333,28.6666666667,gaga1249,gag,Altaic,,Turkic,,gag,False,False,MD,Menz-2000 Pokrovskaja-1964 Pokrovskaja-1966 Pokrovskaja-1978 Pokrovskaja-1997,genus-turkic,POINT (28.6666666667 46.3333333333)
-ger,German,Eurasia,52.0,10.0,stan1295,deu,Indo-European,,Germanic,,deu,True,True,CH DE AT,Borgert-and-Nyhan-1975 Breul-1906 Curme-1922 Dahl-1985 Duden-1998 Durrell-1992 Esau-1973 Harbert-1977 Jessen-1999 Kohler-1999 Lederer-1969 Lide-and-Magnusson-1970 Moulton-1962 Palmer-1986 Wangler-1972 Wiemer-and-Nedjalkov-2007 Zifonun-et-al-1997,genus-germanic,POINT (10 52)
-glc,Galician,Eurasia,43.0,-8.0,gali1258,glg,Indo-European,,Romance,,glg,False,False,ES,Carballo-Calero-1979 Perez-Bouza-1996,genus-romance,POINT (-8 43)
-grk,Greek (Modern),Eurasia,39.0,22.0,mode1248,ell,Indo-European,,Greek,,ell,True,True,GR,Bergman-1968 Christiades-1980 Dahl-1985 Drachman-and-Malikouti-Drachman-1999 Everaert-2000 Haberland-and-Macrakis-1992 Haspelmath-1997 Hedin-1995 Holton-et-al-1997 Householder-et-al-1964 Joseph-1998 Joseph-and-Philippaki-Warburton-1987 Mackridge-1985 Malherbe-and-Rosenberg-1996 Malikouti-Drachman-and-Drachman-1981 Palmer-1986 Ruge-1986 Sofroniou-1962,genus-greek,POINT (22 39)
-heb,Hebrew (Modern),Eurasia,31.5,34.8333333333,hebr1245,heb,Afro-Asiatic,,Semitic,,heb,True,True,IL,Aikhenvald-1990 Bergman-1968 Berman-1976 Berman-1978 Berman-1997 Bolozky-1982 Bolozky-1997 Chayen-1973 Dahl-1985 Devens-2001b Glinert-1989 Glinert-1991 Glinert-1994 Kopelovich-1982 Malherbe-and-Rosenberg-1996 Malygina-2001 Rosen-1962 Rosen-1979 Schwarzwald-2001 Simon-1979,genus-semitic,POINT (34.8333333333 31.5)
-hun,Hungarian,Eurasia,47.0,20.0,hung1274,hun,Uralic,Finno-Ugric,Ugric,,hun,False,True,HU,Banhidi-et-al-1965 Banhidi-et-al-1975 Beckwith-1992 Benko-and-Imre-1972 Biermann-1985 Biro-et-al-1965 Dahl-1985 Gil-1994a Ginter-and-Tarnoi-1991 Hall-1944 Haspelmath-1997 Hetzron-2001 Kenesei-et-al-1998 Kerek-1971 Keresztes-1992 Kiefer-1967 Lotz-1988 Majtinskaja-1976 Malherbe-and-Rosenberg-1996 Moravcsik-1997 Olsson-1992 Schaap-1980 Szende-1999 Szinnyei-1912 Tompa-1968 de-Groot-1994,genus-ugric,POINT (20 47)
-ice,Icelandic,Eurasia,65.0,-17.0,icel1247,isl,Indo-European,,Germanic,,isl,False,False,IS,Arnasonar-1980 Einarsson-1945 Einarsson-1949 Glendening-1966 Haspelmath-1997 Jonsson-1927 Kress-1982 Malherbe-and-Rosenberg-1996 Maling-and-Zaenen-1990 Petursson-1978 Thrainsson-1994,genus-germanic,POINT (-17 65)
-iri,Irish,Eurasia,53.0,-8.0,iris1253,gle,Indo-European,,Celtic,,gle,False,True,IE,Bammesberger-1982 Bammesberger-1983 Caoimhin-P-ODonnaile-pc-cited-in-Gil-1994 Dillon-and-O-Croinin-1961 Doyle-2001 Haspelmath-1997 Lewis-and-Pedersen-1961 Lucas-1979 MacEoin-1993 Malherbe-and-Rosenberg-1996 McCloskey-1979 McCloskey-2001 Ni-Chasaide-1999 O-Dochartaigh-1992 O-Siadhail-1989 Siochfhradha-1958 Stenson-1981,genus-celtic,POINT (-8 53)
-ita,Italian,Eurasia,43.0,12.0,ital1282,ita,Indo-European,,Romance,,ita,False,False,CH IT,Bertinetto-1981 Haspelmath-1997 Lausberg-1972 Lepschy-1978 Lepschy-and-Lepschy-1988 Maiden-and-Robustelli-2000 Malagoli-1946 Malherbe-and-Rosenberg-1996 Muljacic-1972 Renzi-1988 Repetti-2001 Roca-1999 Saltarelli-1970 Sauer-1891 Schwarze-1988 Vincent-1988 Vogel-and-Scalise-1982 Wessely-nd,genus-romance,POINT (12 43)
-izh,Izhor,Eurasia,59.0,29.0,ingr1248,izh,Uralic,Finno-Ugric,Finnic,,izh,False,False,RU,Laanest-1982,genus-finnic,POINT (29 59)
-kbl,Kabyle,Africa,36.5,5.0,kaby1243,kab,Afro-Asiatic,,Berber,,kab,False,False,DZ,Chaker-1983 Hamouma-nd Hanoteau-1906 Malherbe-and-Rosenberg-1996 Naumann-2000,genus-berber,POINT (5 36.5)
-krl,Karelian,Eurasia,64.0,32.0,kare1335,krl,Uralic,Finno-Ugric,Finnic,,krl,False,False,RU,Laanest-1982 Leskinen-1984 Raun-1964b Rjagoev-1993,genus-finnic,POINT (32 64)
-krm,Karaim,Eurasia,54.6666666667,24.9166666667,kara1464,kdr,Altaic,,Turkic,,kdr,False,False,UA LT,Kowalski-1929 Musaev-1966 Musaev-1997,genus-turkic,POINT (24.9166666667 54.6666666667)
-ksu,Kashubian,Eurasia,54.0,18.0,kash1274,csb,Indo-European,,Slavic,,csb,False,False,PL,Lorentz-1971,genus-slavic,POINT (18 54)
-kym,Krymchak,Eurasia,45.0,34.25,krym1236,jct,Altaic,,Turkic,,jct,False,False,UA,Rebi-et-al-1997,genus-turkic,POINT (34.25 45)
-lat,Latvian,Eurasia,57.0,24.0,latv1249,lav,Indo-European,,Baltic,,lav,False,True,LV,Bielenstein-1863 Budina-Lazdina-1966 Eckert-et-al-1994 Eckert-et-al-1998 Ekblom-1933 Endzelin-1922 Fennell-and-Gelsen-1980 Grabis-1965 Haspelmath-1997 Holst-2001 Holvoet-2001 Lazdina-1966 Malherbe-and-Rosenberg-1996 Markus-1987 Markus-1991 Mathiassen-1997 Nau-1998,genus-baltic,POINT (24 57)
-ldn,Ladin,Eurasia,46.5833333333,11.9166666667,ladi1250,lld,Indo-European,,Romance,,lld,False,False,IT,Alton-1968,genus-romance,POINT (11.9166666667 46.5833333333)
-lge,Low German,Eurasia,53.0,10.0,nort2627,nds,Indo-European,,Germanic,,nds,False,False,DE,Lindow-et-al-1998,genus-germanic,POINT (10 53)
-lit,Lithuanian,Eurasia,55.0,24.0,lith1251,lit,Indo-European,,Baltic,,lit,False,False,LT,Ambrazas-1997 Ambrazas-et-al-1966 Augustitis-1964 Baravykas-1967 Dambriunas-et-al-1966 Eckert-et-al-1994 Eckert-et-al-1998 Geniusiene-2007 Girdenis-1985 Haspelmath-1997 Leskien-1919 Malherbe-and-Rosenberg-1996 Mathiassen-1996 Otrebski-1958-1965 Senn-1966 Young-1991,genus-baltic,POINT (24 55)
-liv,Liv,Eurasia,56.8333333333,24.0,livv1244,liv,Uralic,Finno-Ugric,Finnic,,liv,False,False,LV,Laanest-1982 Sjogren-1861,genus-finnic,POINT (24 56.8333333333)
-lno,Ladino,Eurasia,40.0,33.0,ladi1251,lad,Indo-European,,Romance,,lad,False,False,TR IL,Hetzer-2001 Varol-1998,genus-romance,POINT (33 40)
-lux,Luxemburgeois,Eurasia,49.8333333333,6.16666666667,luxe1241,ltz,Indo-European,,Germanic,,ltz,False,False,LU,Malherbe-and-Rosenberg-1996,genus-germanic,POINT (6.16666666667 49.8333333333)
-mcd,Macedonian,Eurasia,41.6666666667,21.75,mace1250,mkd,Indo-European,,Slavic,,mkd,False,False,MK,De-Bray-1980b Foulon-Hristova-1997 Friedman-1993 Groen-1977 Lunt-1952,genus-slavic,POINT (21.75 41.6666666667)
-mlt,Maltese,Eurasia,35.9166666667,14.4166666667,malt1254,mlt,Afro-Asiatic,,Semitic,,mlt,False,False,MT,Aquilina-1959 Borg-1997 Borg-and-Azzopardi-Alexander-1997 Comrie-1989 Corbett-2000 Dahl-1985 French-1978 Haspelmath-1997 Malherbe-and-Rosenberg-1996 Schabert-1976 Sutcliffe-1936,genus-semitic,POINT (14.4166666667 35.9166666667)
-mol,Moldavian,Eurasia,47.0,29.0,mold1248,ron,Indo-European,,Romance,,ron,False,False,MD,Gajdarzi-and-Baskakov-1973,genus-romance,POINT (29 47)
-nor,Norwegian,Eurasia,61.0,8.0,norw1258,nor,Indo-European,,Germanic,,nor,False,False,NO,Askedal-1994 Berit-and-Strandskogen-1998 Berulfsen-1977 Lektor-et-al-1965 Moen-and-Pedersen-1983 Olson-1901 Rice-1999 Strandskogen-and-Strandskogen-1986 Strandskogen-and-Strandskogen-1995 Vanvik-1972,genus-germanic,POINT (8 61)
-pol,Polish,Eurasia,52.0,20.0,poli1260,pol,Indo-European,,Slavic,,pol,False,False,PL,Bielec-1998 Brooks-1975 Bulas-and-Whitfield-1983 Franks-1985 Haspelmath-1997 Laskowski-1972 Mazur-1983 Mikhalik-1984 Muhlhausler-and-Harre-1990 Rothstein-1993 Siewierska-1993 Stone-1980 Szober-1957 Wiemer-2007 Wojtowcz-1972,genus-slavic,POINT (20 52)
-por,Portuguese,Eurasia,39.0,-8.0,port1283,por,Indo-European,,Romance,,por,False,False,PT,Abaurre-and-Wetzels-1992 Camara-and-Mattoso-1979 Dahl-1985 Gartner-1998 Haspelmath-1997 Hutchinson-and-Lloyd-1996 Lamb-1964 Lausberg-1972 Malherbe-and-Rosenberg-1996 Martins-1982 Mateus-et-al-1989 Muhlhausler-and-Harre-1990 Parkinson-1988 Roca-1999 Schmitt-2001,genus-romance,POINT (-8 39)
-rmc,Romansch,Eurasia,46.6666666667,9.16666666667,roma1326,roh,Indo-European,,Romance,,roh,False,False,CH,Lausberg-1972 Malherbe-and-Rosenberg-1996,genus-romance,POINT (9.16666666667 46.6666666667)
-rom,Romanian,Eurasia,46.0,25.0,roma1327,ron,Indo-European,,Romance,,ron,False,False,RO,Agard-1958 Augerot-1974 Avram-1978 Bergman-1968 Beyrer-et-al-1987 Braun-1984 Cazacu-et-al-1967 Coteanu-et-al-1998 Dahl-1985 Graur-and-Rosetti-1938 Haspelmath-1997 Lausberg-1972 Lombard-1935 Mallinson-1986 Mallinson-1988 Roca-1999 Ruhlen-1973 Steriade-1984 Tataru-1978 Ulivi-1977 Ulivi-1985,genus-romance,POINT (25 46)
-rus,Russian,Eurasia,56.0,38.0,russ1263,rus,Indo-European,,Slavic,,rus,True,True,RU,Berneker-and-Vasmer-1971 Beyer-2001 Bivon-1971 Borras-and-Christian-1959 Boyanus-1955 Comrie-1989 Corbett-1991 Dahl-1985 Fraser-and-Corbett-1995 Halle-1959 Hamilton-1980 Haspelmath-1997 Jones-and-Ward-1969 Kodzasov-1999b Krylova-and-Khavronina-1976 Launer-1974 Pulkina-1978 Pulkina-and-Zakhava-Nekrasova-1974 Stilman-and-Harkins-1964 Tauscher-and-Kirschbaum-1963 Unbegaun-1957 Wade-1992 Wedel-and-Romanov-1964,genus-slavic,POINT (38 56)
-scr,Serbian-Croatian,Eurasia,44.0,19.0,sout1528,hbs,Indo-European,,Slavic,,hbs,False,False,RS BA HR,Browne-1974 Browne-1993 Gvozdanovic-1999 Hamm-1975 Hamm-1981 Haspelmath-1997 Hewitt-1989c Hodge-1946 Javarek-and-Sudjic-1972 Kalogjera-1982 Kordic-1997 Malherbe-and-Rosenberg-1996 Partridge-1964 Schmaus-1983 Subotic-and-Forbes-1918,genus-slavic,POINT (19 44)
-slo,Slovene,Eurasia,46.0,15.0,slov1268,slv,Indo-European,,Slavic,,slv,False,False,SI,Derbyshire-1993 Gvozdanovic-1999 Herrity-2000 Jug-Kranjec-1989 Malherbe-and-Rosenberg-1996 Priestly-1993,genus-slavic,POINT (15 46)
-spa,Spanish,Eurasia,40.0,-4.0,stan1288,spa,Indo-European,,Romance,,spa,True,True,ES,Alarcos-Llorach-1965 Ashcom-and-Goodell-1955 Berschin-etal-1995 Butt-and-Benjamin-1988 Butt-and-Benjamin-1994 Butt-and-Benjamin-2000 Cuyas-1972 Dahl-1985 Green-1988 Harris-1969a Harris-1983 Jarvis-et-al-1981 Lopez-2001 Navarro-1961 Navarro-1965 Otero-1999 Roca-1991 Roca-1999 Saporta-and-Contreras-1962,genus-romance,POINT (-4 40)
-srb,Sorbian,Eurasia,51.5,14.0,sorb1249,,Indo-European,,Slavic,,dsb hsb,False,False,DE,Dogil-1999 Janas-1976 Mucke-1965 Sjwela-1952 Stone-1993 Wowcerk-1951,genus-slavic,POINT (14 51.5)
-srd,Sardinian,Eurasia,40.0,9.0,camp1261,sro,Indo-European,,Romance,,sro,False,False,IT,Blasco-1986 Jones-1988 Lausberg-1972 Porru-1975 Roca-1999 Virdis-1978 Wagner-1984,genus-romance,POINT (9 40)
-svc,Slovincian,Eurasia,54.0,16.0,kash1274,csb,Indo-European,,Slavic,,csb,False,False,PL,Kurylowicz-1960 Lehr-Splawinski-1917 Lorentz-1903,genus-slavic,POINT (16 54)
-svk,Slovak,Eurasia,49.0,20.0,slov1269,slk,Indo-European,,Slavic,,slk,False,False,SK,Balaz-and-Darovec-1978 De-Bray-1980a Dogil-1999 Kralj-1988 Letz-1950 Malherbe-and-Rosenberg-1996 Mistrik-1981 Rubach-1991 Short-1993c Trnka-1992,genus-slavic,POINT (20 49)
-swe,Swedish,Eurasia,60.0,15.0,swed1254,swe,Indo-European,,Germanic,,swe,False,False,FI SE,Bruce-1999a Dahl-1985 Hammar-1958 Haspelmath-1997 Holm-and-Nylund-Lindgren-1977 Holmes-and-Hinchliffe-1994 McClean-1963 Ritte-1998,genus-germanic,POINT (15 60)
-tur,Turkish,Eurasia,39.0,35.0,nucl1301,tur,Altaic,,Turkic,,tur,True,True,TR,Aksu-Koc-and-Slobin-1986 Comrie-1998 Dahl-1985 Darwin-1872 Erguvanli-1984 Godel-1945 Haspelmath-1997 Kononov-1941 Kononov-1956 Kornfilt-1997 Kornrumpf-1960 Lees-1961 Lewis-1967 Malherbe-and-Rosenberg-1996 Nemeth-1962 Sezer-1983 Swift-1963 Thomas-1967 Underhill-1976 Zimmer-and-Orgun-1999 van-Schaaik-1994,genus-turkic,POINT (35 39)
-uby,Ubykh,Eurasia,43.6666666667,39.6666666667,ubyk1235,uby,Northwest Caucasian,,Northwest Caucasian,,uby,False,False,RU TR,Charachidze-1989 Dirr-1928 Stolz-1996,genus-northwestcaucasian,POINT (39.6666666667 43.6666666667)
-ukr,Ukrainian,Eurasia,49.0,33.0,ukra1253,ukr,Indo-European,,Slavic,,ukr,False,False,UA,Beloded-and-Zhovtobrjux-1966 Danylenko-and-Vakulenko-1995 Hrabovsky-1991 Humesky-1980 Malherbe-and-Rosenberg-1996 Medushevsky-and-Zyatovska-1963 Pugh-and-Press-1999 Shevelov-1993 Stechishin-1958 Struk-1978 Struk-1982,genus-slavic,POINT (33 49)
-urm,Urum,Eurasia,47.1166666667,37.55,urum1249,uum,Altaic,,Turkic,,uum,False,False,UA GE,Muratov-1997,genus-turkic,POINT (37.55 47.1166666667)
-vep,Veps,Eurasia,60.0,35.0,veps1250,vep,Uralic,Finno-Ugric,Finnic,,vep,False,False,RU,Laanest-1982,genus-finnic,POINT (35 60)
-vot,Votic,Eurasia,59.5,30.0,voti1245,vot,Uralic,Finno-Ugric,Finnic,,vot,False,False,RU,Ariste-1968 Ariste-1997 Laanest-1982,genus-finnic,POINT (30 59.5)
-wel,Welsh,Eurasia,52.0,-3.0,wels1247,cym,Indo-European,,Celtic,,cym,False,False,GB,Ball-1993 Bowen-and-Jones-1960 Comrie-and-Thompson-1985 Evans-and-Thomas-1958 Fife-1990 Jones-1955 Jones-1970 Jones-and-Thomas-1977 Kibre-2001 King-1993a MacAulay-1992c Malherbe-and-Rosenberg-1996 Rhys-Jones-1985 Thomas-1992a Thorne-1993 Watkins-1993 Williams-1980b,genus-celtic,POINT (-3 52)
-ydd,Yiddish,Eurasia,52.0,23.0,yidd1255,ydd,Indo-European,,Germanic,,ydd,False,False,UA BY DE LT PL,Katz-1987,genus-germanic,POINT (23 52)
+ID,Name,Macroarea,Latitude,Longitude,Family,Subfamily,Genus
+alb,Albanian,Eurasia,41.0,20.0,Indo-European,,Albanian
+alt,Alsatian,Eurasia,48.5,7.5,Indo-European,,Germanic
+ast,Asturian,Eurasia,43.25,-6.0,Indo-European,,Romance
+blr,Belorussian,Eurasia,54.0,28.0,Indo-European,,Slavic
+bos,Bosnian,Eurasia,43.0,18.0,Indo-European,,Slavic
+bre,Breton,Eurasia,48.0,-3.0,Indo-European,,Celtic
+bsq,Basque,Eurasia,43.0,-3.0,Basque,,Basque
+bul,Bulgarian,Eurasia,42.5,25.0,Indo-European,,Slavic
+cri,Crimean Tatar,Eurasia,45.0,34.0833333333,Altaic,,Turkic
+crn,Cornish,Eurasia,50.3333333333,-5.0,Indo-European,,Celtic
+ctl,Catalan,Eurasia,41.75,2.0,Indo-European,,Romance
+cze,Czech,Eurasia,50.0,15.0,Indo-European,,Slavic
+dsh,Danish,Eurasia,56.0,10.0,Indo-European,,Germanic
+dut,Dutch,Eurasia,52.5,6.0,Indo-European,,Germanic
+eng,English,Eurasia,52.0,0.0,Indo-European,,Germanic
+est,Estonian,Eurasia,59.0,26.0,Uralic,Finno-Ugric,Finnic
+far,Faroese,Eurasia,62.0,-7.0,Indo-European,,Germanic
+fin,Finnish,Eurasia,62.0,25.0,Uralic,Finno-Ugric,Finnic
+fre,French,Eurasia,48.0,2.0,Indo-European,,Romance
+fri,Frisian,Eurasia,53.0,5.0,Indo-European,,Germanic
+gae,Gaelic (Scots),Eurasia,57.0,-4.0,Indo-European,,Celtic
+gag,Gagauz,Eurasia,46.3333333333,28.6666666667,Altaic,,Turkic
+ger,German,Eurasia,52.0,10.0,Indo-European,,Germanic
+glc,Galician,Eurasia,43.0,-8.0,Indo-European,,Romance
+hun,Hungarian,Eurasia,47.0,20.0,Uralic,Finno-Ugric,Ugric
+ice,Icelandic,Eurasia,65.0,-17.0,Indo-European,,Germanic
+iri,Irish,Eurasia,53.0,-8.0,Indo-European,,Celtic
+ita,Italian,Eurasia,43.0,12.0,Indo-European,,Romance
+izh,Izhor,Eurasia,59.0,29.0,Uralic,Finno-Ugric,Finnic
+krl,Karelian,Eurasia,64.0,32.0,Uralic,Finno-Ugric,Finnic
+krm,Karaim,Eurasia,54.6666666667,24.9166666667,Altaic,,Turkic
+ksu,Kashubian,Eurasia,54.0,18.0,Indo-European,,Slavic
+kym,Krymchak,Eurasia,45.0,34.25,Altaic,,Turkic
+lat,Latvian,Eurasia,57.0,24.0,Indo-European,,Baltic
+ldn,Ladin,Eurasia,46.5833333333,11.9166666667,Indo-European,,Romance
+lge,Low German,Eurasia,53.0,10.0,Indo-European,,Germanic
+lit,Lithuanian,Eurasia,55.0,24.0,Indo-European,,Baltic
+liv,Liv,Eurasia,56.8333333333,24.0,Uralic,Finno-Ugric,Finnic
+lno,Ladino,Eurasia,40.0,33.0,Indo-European,,Romance
+lux,Luxemburgeois,Eurasia,49.8333333333,6.16666666667,Indo-European,,Germanic
+mcd,Macedonian,Eurasia,41.6666666667,21.75,Indo-European,,Slavic
+mol,Moldavian,Eurasia,47.0,29.0,Indo-European,,Romance
+nor,Norwegian,Eurasia,61.0,8.0,Indo-European,,Germanic
+pol,Polish,Eurasia,52.0,20.0,Indo-European,,Slavic
+rmc,Romansch,Eurasia,46.6666666667,9.16666666667,Indo-European,,Romance
+rom,Romanian,Eurasia,46.0,25.0,Indo-European,,Romance
+rus,Russian,Eurasia,56.0,38.0,Indo-European,,Slavic
+scr,Serbian-Croatian,Eurasia,44.0,19.0,Indo-European,,Slavic
+slo,Slovene,Eurasia,46.0,15.0,Indo-European,,Slavic
+spa,Spanish,Eurasia,40.0,-4.0,Indo-European,,Romance
+srb,Sorbian,Eurasia,51.5,14.0,Indo-European,,Slavic
+srd,Sardinian,Eurasia,40.0,9.0,Indo-European,,Romance
+svc,Slovincian,Eurasia,54.0,16.0,Indo-European,,Slavic
+svk,Slovak,Eurasia,49.0,20.0,Indo-European,,Slavic
+swe,Swedish,Eurasia,60.0,15.0,Indo-European,,Germanic
+uby,Ubykh,Eurasia,43.6666666667,39.6666666667,Northwest Caucasian,,Northwest Caucasian
+ukr,Ukrainian,Eurasia,49.0,33.0,Indo-European,,Slavic
+urm,Urum,Eurasia,47.1166666667,37.55,Altaic,,Turkic
+vep,Veps,Eurasia,60.0,35.0,Uralic,Finno-Ugric,Finnic
+vot,Votic,Eurasia,59.5,30.0,Uralic,Finno-Ugric,Finnic
+wel,Welsh,Eurasia,52.0,-3.0,Indo-European,,Celtic
+ydd,Yiddish,Eurasia,52.0,23.0,Indo-European,,Germanic
