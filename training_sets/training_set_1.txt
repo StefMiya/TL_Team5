@@ -1,0 +1,9 @@
+Setting:
+
+threshold_pct_features = 0.50
+threshold_pct_langauges = 1.0
+
+Result:
+
+Langauges: 17
+Features: 37
