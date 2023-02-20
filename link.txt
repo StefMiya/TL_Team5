@@ -7,3 +7,6 @@ Zenodo:
 K modes:
 - https://medium.com/geekculture/the-k-modes-as-clustering-algorithm-for-categorical-data-type-bcde8f95efd7
 - https://www.kaggle.com/code/ashydv/bank-customer-clustering-k-modes-clustering
+
+Evaluation:
+- https://www.guavus.com/technical-blog/unsupervised-machine-learning-validation-techniques/#:~:text=Twin%20sample%20validation%20can%20be,results%20remain%20same%20across%20time.
