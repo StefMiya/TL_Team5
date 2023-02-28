@@ -12,3 +12,4 @@ K modes:
 Evaluation:
 - https://www.guavus.com/technical-blog/unsupervised-machine-learning-validation-techniques/#:~:text=Twin%20sample%20validation%20can%20be,results%20remain%20same%20across%20time.
 - https://medium.com/@a.gautam4dec/insights-on-categorical-data-clustering-524e19118390
+- https://www.youtube.com/watch?v=Zp9a9TFD0Lc
