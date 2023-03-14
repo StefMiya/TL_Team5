@@ -6,4 +6,4 @@ Categories: Modern European languages - their standard variation
 
 Features: Grammar - pronunciation - vocabulary
 
-2023-01-15: Pascal's change
+# Basic Instructions
