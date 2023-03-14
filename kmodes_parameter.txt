@@ -1,0 +1,27 @@
+Parameters
+    -----------
+    n_clusters : int, optional, default: 8
+        The number of clusters to form as well as the number of
+        centroids to generate.
+    max_iter : int, default: 300
+        Maximum number of iterations of the k-modes algorithm for a
+        single run.
+    cat_dissim : func, default: matching_dissim
+        Dissimilarity function used by the algorithm for categorical variables.
+        Defaults to the matching dissimilarity function.
+    init : {'Huang', 'Cao', 'random' or an ndarray}, default: 'Cao'
+        Method for initialization:
+        'Huang': Method in Huang [1997, 1998]
+        'Cao': Method in Cao et al. [2009]
+        'random': choose 'n_clusters' observations (rows) at random from
+        data for the initial centroids.
+        If an ndarray is passed, it should be of shape (n_clusters, n_features)
+        and gives the initial centroids.
+    n_init : int, default: 10
+        Number of time the k-modes algorithm will be run with different
+        centroid seeds. The final results will be the best output of
+        n_init consecutive runs in terms of cost.
+    verbose : int, optional
+        Verbosity mode.
+
+    (Source: source code)
