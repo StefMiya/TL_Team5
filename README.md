@@ -9,8 +9,11 @@ Features: Grammar - pronunciation - vocabulary
 ## Basis instructions
 ### Pre-requisites
 Project is implemented as Jupyter notebooks. Anaconda should bring with it all required libraries   but geopandas and shapely. 
-`pip install geopandas
-`pip install shapely
+```
+pip install geopandas
+pip install shapely
+pip install kmodes
+```
 ## Workflow
 ### 1. languages.ipynb
 Notebook reads all languages WALS provides, filters relevant languages (manual approach), and visualize results on a map. Manual filtering is done with a manually curated whitelist which is hard-coded in notebook.
